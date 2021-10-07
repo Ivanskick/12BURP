@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Developer changed
 Main changes
 Main changes
+=======
+Noc textov
+Developer changes2
+Developer changes 3
+>>>>>>> Developer
